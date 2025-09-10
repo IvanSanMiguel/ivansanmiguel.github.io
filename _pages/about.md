@@ -13,5 +13,5 @@ My work sits at the intersection of International Political Economy and Historic
 
 Before attending NYU, I received a M.A. in Social Sciences from the [Juan March-Carlos III Institute](https://ic3jm.es/en/) (Madrid) and a B.A. in Economics from [Centro de Investigación y Docencia Económicas (CIDE)](https://www.cide.edu/). 
 
-Feel free to reach out at [ivan.sanmiguel@nyu.edu](ivan.sanmiguel@nyu.edu).
+Feel free to reach out at [ivan.sanmiguel@nyu.edu](mailto:ivan.sanmiguel@nyu.edu).
 
