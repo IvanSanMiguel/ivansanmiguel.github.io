@@ -16,12 +16,12 @@ repository               : "IvanSanMiguel/ivansanmiguel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "San_Miguel_Ivan_005.jpg"
+  avatar           : "San_Miguel_Ivan_supper_cropped.jpg"
   name             : "Ivan San Miguel"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at New York University"
-  location         : "New York City"
-  employer         : "New York University"
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "ivan.sanmiguel@nyu.edu" 
 
