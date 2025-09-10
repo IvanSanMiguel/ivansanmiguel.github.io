@@ -1,0 +1,20 @@
+/* Make the sidebar author photo larger */
+.author__avatar {
+  display: flex;
+  justify-content: center;
+}
+
+.author__avatar img {
+  width: 160px !important;      /* pick your size: 140–200px usually fits */
+  height: 160px !important;     /* keep it square for a perfect circle */
+  max-width: none !important;   /* override theme's 100–120px cap */
+  border-radius: 50%;
+}
+
+/* Optional: slightly smaller on phones */
+@media (max-width: 600px) {
+  .author__avatar img {
+    width: 140px !important;
+    height: 140px !important;
+  }
+}
