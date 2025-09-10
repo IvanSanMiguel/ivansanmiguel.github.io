@@ -71,7 +71,7 @@ Recent research suggests that politically excluded elites play a crucial role in
 ---
 
 <div class="paper-title">Elite Clubs and Political Office Holding</div>
-<div class="coauthors">with Julienne Labonne, Pablo Querubin, and Sebastian Saiegh</div>
+<div class="coauthors">with Julienne Labonne, Pablo Querubin, Sebastian Saiegh, and Shanker Satyanath</div>
 
 <button class="abstract-button" id="paper2-abstract-button" onclick="toggleAbstract('paper2-abstract')">Show Abstract</button>
 <div id="paper2-abstract" class="abstract-content">
