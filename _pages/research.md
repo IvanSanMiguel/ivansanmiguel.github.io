@@ -60,7 +60,7 @@ function toggleAbstract(id) {
 ## Working Papers
 
 <div class="paper-title">Joining the Revolution: Elite Support for Revolutionary Movements</div>
-<div class="coauthors">with Daniel Baquero (if applicable)</div>
+<div class="coauthors">with Daniel Baquero</div>
 
 
 <button class="abstract-button" id="paper1-abstract-button" onclick="toggleAbstract('paper1-abstract')">Show Abstract</button>
@@ -71,7 +71,7 @@ Recent research suggests that politically excluded elites play a crucial role in
 ---
 
 <div class="paper-title">Elite Clubs and Political Office Holding</div>
-<div class="coauthors">with Julienne Labonne, Pablo Querub\'in, and Sebasti\'an Saiegh</div>
+<div class="coauthors">with Julienne Labonne, Pablo Querubin, and Sebastian Saiegh</div>
 
 <button class="abstract-button" id="paper2-abstract-button" onclick="toggleAbstract('paper2-abstract')">Show Abstract</button>
 <div id="paper2-abstract" class="abstract-content">
@@ -92,12 +92,6 @@ Economic growth is often assumed to broaden political inclusion, yet it can just
 
 ## Work in Progress
 
-<div class="paper-title">Project Title One</div>
-<div class="coauthors">with Collaborator Names</div>
-
-Brief description of this work in progress. Since these are ongoing projects, you might not include abstracts or downloads, but you can describe the research question, methodology, or expected contribution.
-
----
 
 <div class="paper-title">When Winners Revolt: Export Shocks and Electoral Backlash in Competitive Autocracies.</div>
 <div class="coauthors"></div>
