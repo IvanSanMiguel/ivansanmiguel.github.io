@@ -1,0 +1,47 @@
+/* ---- Abstracts: light mode base (keeps your current look) ---- */
+.page__content .abstract-content {
+  display: none;
+  margin-top: 10px;
+  padding: 15px;
+  background-color: #f6f8fa;
+  border-left: 4px solid #0366d6;
+  border-radius: 3px;
+  color: inherit;
+}
+.page__content .abstract-button {
+  background-color: #0366d6;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* ---- Dark mode overrides (cover both system and class-based toggles) ---- */
+@media (prefers-color-scheme: dark) {
+  .page__content .abstract-content {
+    background-color: #111827 !important;
+    color: #e5e7eb !important;
+    border-left-color: #60a5fa !important;
+  }
+  .page__content .abstract-content a { color: #93c5fd !important; text-decoration: underline; }
+  .page__content .abstract-button { background-color: #3b82f6 !important; color: #0b1220 !important; }
+  .page__content .paper-title { color: #f3f4f6 !important; }
+  .page__content .coauthors   { color: #cbd5e1 !important; }
+}
+
+/* If your theme toggles a dark class/attribute instead of using prefers-color-scheme */
+html[data-theme="dark"] .page__content .abstract-content,
+html.dark .page__content .abstract-content,
+body.dark .page__content .abstract-content {
+  background-color: #111827 !important;
+  color: #e5e7eb !important;
+  border-left-color: #60a5fa !important;
+}
+html[data-theme="dark"] .page__content .abstract-button,
+html.dark .page__content .abstract-button,
+body.dark .page__content .abstract-button {
+  background-color: #3b82f6 !important;
+  color: #0b1220 !important;
+}
