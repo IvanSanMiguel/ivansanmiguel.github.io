@@ -3,7 +3,7 @@
 /* Optional: slightly smaller on phones */
 @media (max-width: 600px) {
   .author__avatar img {
-    width: 140px !important;
-    height: 140px !important;
+    width: 100px !important;
+    height: 100px !important;
   }
 }
