@@ -41,6 +41,39 @@ author_profile: true
   font-style: italic;
   margin-bottom: 5px;
 }
+  /* Dark mode fixes for abstracts */
+@media (prefers-color-scheme: dark) {
+  .paper-title {
+    color: #f3f4f6;           /* light text */
+  }
+  .coauthors {
+    color: #cbd5e1;           /* softer light text */
+  }
+  .abstract-content {
+    background-color: #111827; /* dark panel */
+    color: #e5e7eb;            /* readable text */
+    border-left-color: #60a5fa;
+  }
+  .abstract-content a {
+    color: #93c5fd;           /* link visible on dark */
+    text-decoration: underline;
+  }
+  .abstract-content code {
+    background: #1f2937;      /* code blocks readable */
+    color: #e5e7eb;
+  }
+  .abstract-button {
+    background-color: #3b82f6; /* brighter button for dark */
+    color: #0b1220;
+  }
+  .abstract-button:hover {
+    background-color: #2563eb;
+  }
+  .abstract-button:focus-visible {
+    outline: 2px solid #93c5fd;
+    outline-offset: 2px;
+  }
+}
 </style>
 
 <script>
