@@ -59,12 +59,22 @@ function toggleAbstract(id) {
 
 ## Working Papers
 
+<div class="paper-title">Trading Away the Machine: Free Trade and Clientelism in Developing Countries</div>
+<div class="coauthors"></div>
+
+<button class="abstract-button" id="paper1-abstract-button" onclick="toggleAbstract('paper1-abstract')">Show Abstract</button>
+<div id="paper1-abstract" class="abstract-content">
+The conventional wisdom on the political consequences of free trade holds that voters who benefit from trade liberalization will support incumbents, while voters who are negatively affected will punish them. However, this perspective does not capture the effect of trade on clientelism, which is a key determinant of voter mobilization in the developing world. This paper shows that positive export shocks can decrease support for clientelistic incumbents. I argue that positive export shocks, by expanding employment opportunities, reduce voters' dependence on state-sponsored clientelism. This weakening of clientelistic linkages allows voters to switch their support towards programmatic parties. To test this argument, I examine the political consequences of the North American Free Trade Agreement (NAFTA) in Mexico under the PRI, an incumbent party that relied heavily on clientelism. I exploit geographic variation in NAFTA exposure using a shift-share design based on pre-NAFTA industrial specialization in manufacturing regions and crop suitability in agrarian communities. I find that pro-government parties lost significantly more support in regions more exposed to the post-NAFTA increase in Mexican exports. Consistent with my proposed mechanism, I show that the positive export shock is associated with lower enrollment in politically controlled social welfare programs. Moreover, the decline in pro-regime support is concentrated in small, highly clientelistic parties with a working-class voter base. Electoral gains, in turn, are concentrated in the left-wing opposition, which offered programmatic redistribution but lacked strong clientelistic networks. These findings show that free trade can play a major role in weakening clientelism in developing countries.
+</div>
+
+---
+
 <div class="paper-title">Joining the Revolution: Elite Support for Revolutionary Movements</div>
 <div class="coauthors">with Daniel Baquero</div>
 
 
-<button class="abstract-button" id="paper1-abstract-button" onclick="toggleAbstract('paper1-abstract')">Show Abstract</button>
-<div id="paper1-abstract" class="abstract-content">
+<button class="abstract-button" id="paper2-abstract-button" onclick="toggleAbstract('paper2-abstract')">Show Abstract</button>
+<div id="paper2-abstract" class="abstract-content">
 Recent research suggests that politically excluded elites play a crucial role in revolutions and regime transitions. However, little research has been conducted on the factors that lead to the emergence of these elites. We propose that international trade is an important yet understudied cause of the emergence of such elites. In agrarian, commodity-exporting countries, economic integration can be highly lucrative for the incumbent government. However, shifts in international demand for commodities, such as those driven by technological innovations, create opportunities for individuals outside the autocratic coalition—such as landowners in politically marginalized regions—to gain economic power. In this project, we leverage shifts in American imports of agricultural commodities during the Second Industrial Revolution as an exogenous cause of the emergence of anti-regime elites during the Mexican Revolution. Using biographical data on over 5,000 key figures from the Mexican Revolution, we identify and geolocate elite revolutionary leaders. Our analysis shows that the local trade shock intensity is significantly associated with the emergence of elite revolutionary leaders in regions where local elites were politically marginalized. Our study provides causal evidence that trade shocks can create elites who are politically excluded yet economically powerful, highlighting international trade as a critical yet previously overlooked driver of elite-led regime change.
 </div>
 
@@ -73,19 +83,9 @@ Recent research suggests that politically excluded elites play a crucial role in
 <div class="paper-title">Elite Clubs and Political Office Holding</div>
 <div class="coauthors">with Julien Labonne, Pablo Querubin, Martin Rossi, Sebastian Saiegh, and Shanker Satyanath</div>
 
-<button class="abstract-button" id="paper2-abstract-button" onclick="toggleAbstract('paper2-abstract')">Show Abstract</button>
-<div id="paper2-abstract" class="abstract-content">
-In recent years we have seen significant cases of individuals from wealthy families gaining political office. However, there is little literature addressing the determinants of political success of some but not others amongst the wealthy. In this paper, we leverage the literature on social capital to cast light on this question. We study the effect of membership in an elite social club on the propensity to be a candidate and win legislative office. Specifically, we leverage the creation in 1882 of the Buenos Aires Jockey Club—Argentina’s most prominent social club. Using a staggered synthetic difference in differences strategy, we find that family and individual membership in the Jockey Club is associated with a significant increase in the probability of running for and winning legislative office. As for the mechanism, we present evidence that Jockey Club membership resulted in greater centrality in elite marriage networks; such connections were exceptionally useful for mobilizing voters in Argentina’s patronage-based elections.
-</div>
-
----
-
-<div class="paper-title">Trading Away the Machine: Free Trade and Clientelism in Developing Countries</div>
-<div class="coauthors"></div>
-
 <button class="abstract-button" id="paper3-abstract-button" onclick="toggleAbstract('paper3-abstract')">Show Abstract</button>
 <div id="paper3-abstract" class="abstract-content">
-The conventional wisdom on the political consequences of free trade holds that voters who benefit from trade liberalization will support incumbents, while voters who are negatively affected will punish them. However, this perspective does not capture the effect of trade on clientelism, which is a key determinant of voter mobilization in the developing world. This paper shows that positive export shocks can decrease support for clientelistic incumbents. I argue that positive export shocks, by expanding employment opportunities, reduce voters' dependence on state-sponsored clientelism. This weakening of clientelistic linkages allows voters to switch their support towards programmatic parties. To test this argument, I examine the political consequences of the North American Free Trade Agreement (NAFTA) in Mexico under the PRI, an incumbent party that relied heavily on clientelism. I exploit geographic variation in NAFTA exposure using a shift-share design based on pre-NAFTA industrial specialization in manufacturing regions and crop suitability in agrarian communities. I find that pro-government parties lost significantly more support in regions that were more exposed to the post-NAFTA increase in Mexican exports. Consistent with my proposed mechanism, I show that the positive export shock is associated with lower enrollment in politically controlled social welfare programs. Moreover, the decline in pro-regime support is concentrated in small, highly clientelistic parties with a working-class voter base. Electoral gains, in turn, are concentrated in the left-wing opposition, which offered programmatic redistribution but lacked strong clientelistic networks. These findings show that free trade can play a major role in weakening clientelism in developing countries.
+In recent years we have seen significant cases of individuals from wealthy families gaining political office. However, there is little literature addressing the determinants of political success of some but not others amongst the wealthy. In this paper, we leverage the literature on social capital to cast light on this question. We study the effect of membership in an elite social club on the propensity to be a candidate and win legislative office. Specifically, we leverage the creation in 1882 of the Buenos Aires Jockey Club—Argentina’s most prominent social club. Using a staggered synthetic difference in differences strategy, we find that family and individual membership in the Jockey Club is associated with a significant increase in the probability of running for and winning legislative office. As for the mechanism, we present evidence that Jockey Club membership resulted in greater centrality in elite marriage networks; such connections were exceptionally useful for mobilizing voters in Argentina’s patronage-based elections.
 </div>
 
 ---
