@@ -80,14 +80,18 @@ In recent years we have seen significant cases of individuals from wealthy famil
 
 ---
 
-## Work in Progress
-
-
-<div class="paper-title">When Winners Revolt: Export Shocks and Electoral Backlash in Competitive Autocracies.</div>
+<div class="paper-title">Trading Away the Machine: Free Trade and Clientelism in Developing Countries</div>
 <div class="coauthors"></div>
 
+<button class="abstract-button" id="paper3-abstract-button" onclick="toggleAbstract('paper3-abstract')">Show Abstract</button>
+<div id="paper3-abstract" class="abstract-content">
+The conventional wisdom on the political consequences of free trade holds that voters who benefit from trade liberalization will support incumbents, while voters who are negatively affected will punish them. However, this perspective does not capture the effect of trade on clientelism, which is a key determinant of voter mobilization in the developing world. This paper shows that positive export shocks can decrease support for clientelistic incumbents. I argue that positive export shocks, by expanding employment opportunities, reduce voters' dependence on state-sponsored clientelism. This weakening of clientelistic linkages allows voters to switch their support towards programmatic parties. To test this argument, I examine the political consequences of the North American Free Trade Agreement (NAFTA) in Mexico under the PRI, an incumbent party that relied heavily on clientelism. I exploit geographic variation in NAFTA exposure using a shift-share design based on pre-NAFTA industrial specialization in manufacturing regions and crop suitability in agrarian communities. I find that pro-government parties lost significantly more support in regions that were more exposed to the post-NAFTA increase in Mexican exports. Consistent with my proposed mechanism, I show that the positive export shock is associated with lower enrollment in politically controlled social welfare programs. Moreover, the decline in pro-regime support is concentrated in small, highly clientelistic parties with a working-class voter base. Electoral gains, in turn, are concentrated in the left-wing opposition, which offered programmatic redistribution but lacked strong clientelistic networks. These findings show that free trade can play a major role in weakening clientelism in developing countries.
+</div>
 
 ---
 
-<div class="paper-title">Trade Shocks, Elite Splits, and the Origins of Redistributive Coalitions</div>
+## Work in Progress
+
+
+<div class="paper-title">The Elite Origins of Argentina's Protectionist Turn</div>
 <div class="coauthors"></div>
