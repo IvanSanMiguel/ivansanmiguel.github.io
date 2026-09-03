@@ -28,6 +28,15 @@ author_profile: true
   background-color: #0256c7;
 }
 
+.abstract-content {
+  display: none;
+  margin-top: 10px;
+  padding: 15px;
+  background-color: inherit; 
+  border-left: 4px solid #0366d6;
+  border-radius: 3px;
+}
+
 .coauthors {
   font-style: italic;
   margin-bottom: 5px;
