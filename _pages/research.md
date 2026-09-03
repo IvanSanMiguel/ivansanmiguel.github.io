@@ -70,10 +70,11 @@ Over the last decades, trade liberalization has caused a major relocation of man
 
 ---
 
-<div class="paper-title">Joining the Revolution: Elite Support for Revolutionary Movements</div>
+<div class="paper-title">Joining the Revolution: Trade Shocks and Elite Support for Revolutionary Movements</div>
 <div class="coauthors">with Daniel Baquero</div>
 
 
+<button class="abstract-button" onclick="window.location.href='/files/Baquero_San_Miguel_Joining_the_Revolution.pdf'">Paper</button>
 <button class="abstract-button" id="paper2-abstract-button" onclick="toggleAbstract('paper2-abstract')">Show Abstract</button>
 <div id="paper2-abstract" class="abstract-content">
 Recent research suggests that politically excluded elites play a crucial role in revolutions and regime transitions. However, little research has been conducted on the factors that lead to the emergence of these elites. We propose that international trade is an important yet understudied cause of the emergence of such elites. In agrarian, commodity-exporting countries, economic integration can be highly lucrative for the incumbent government. However, shifts in international demand for commodities, such as those driven by technological innovations, create opportunities for individuals outside the autocratic coalition—such as landowners in politically marginalized regions—to gain economic power. In this project, we leverage shifts in American imports of agricultural commodities during the Second Industrial Revolution as an exogenous cause of the emergence of anti-regime elites during the Mexican Revolution. Using biographical data on over 5,000 key figures from the Mexican Revolution, we identify and geolocate elite revolutionary leaders. Our analysis shows that the local trade shock intensity is significantly associated with the emergence of elite revolutionary leaders in regions where local elites were politically marginalized. Our study provides causal evidence that trade shocks can create elites who are politically excluded yet economically powerful, highlighting international trade as a critical yet previously overlooked driver of elite-led regime change.
