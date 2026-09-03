@@ -59,7 +59,7 @@ function toggleAbstract(id) {
 
 ## Working Papers
 
-<div class="paper-title">Trading Away the Machine: The Political Consequences of Trade Liberalization in Developing Countries</div>
+<div class="paper-title">Trading Away the Machine: The Political Consequences of Trade Liberalization in Developing Countries (Job Market Paper)</div>
 <div class="coauthors"></div>
 
 <button class="abstract-button" onclick="window.location.href='/files/San_Miguel_JMP.pdf'">Paper</button>
