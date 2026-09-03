@@ -28,33 +28,6 @@ author_profile: true
   background-color: #0256c7;
 }
 
-.paper-button {
-  display: inline-block;
-  background-color: #0366d6;
-  color: white !important;
-  border: none;
-  padding: 5px 10px;
-  cursor: pointer;
-  border-radius: 3px;
-  font-size: 0.9em;
-  margin-top: 5px;
-  margin-right: 5px;
-  text-decoration: none !important;
-}
-
-.paper-button:hover {
-  background-color: #0256c7;
-}
-
-.abstract-content {
-  display: none;
-  margin-top: 10px;
-  padding: 15px;
-  background-color: inherit; 
-  border-left: 4px solid #0366d6;
-  border-radius: 3px;
-}
-
 .coauthors {
   font-style: italic;
   margin-bottom: 5px;
@@ -80,7 +53,7 @@ function toggleAbstract(id) {
 <div class="paper-title">Trading Away the Machine: The Political Consequences of Trade Liberalization in Developing Countries</div>
 <div class="coauthors"></div>
 
-<a class="paper-button" href="/files/San_Miguel_JMP.pdf" download="San_Miguel_Trading_Away_the_Machine.pdf">Paper (PDF)</a>
+<button class="abstract-button" onclick="window.location.href='/files/San_Miguel_JMP.pdf'">Paper</button>
 <button class="abstract-button" id="paper1-abstract-button" onclick="toggleAbstract('paper1-abstract')">Show Abstract</button>
 <div id="paper1-abstract" class="abstract-content">
 Over the last decades, trade liberalization has caused a major relocation of manufacturing employment from developed to developing countries, yet we have little systematic evidence on how this transformation has affected the politics of the countries receiving these jobs. The conventional view on voters' response to trade liberalization is that they will reward or punish the incumbent depending on how trade affects local economic conditions. However, I argue that this prediction is not generalizable to developing countries. Specifically, this perspective does not capture the role of clientelism, which is a key mechanism through which developing-world incumbents mobilize support. This paper shows that economic gains caused by trade can weaken incumbents by undermining their ability to mobilize voters through state-sponsored clientelism. A positive export shock that increases wages and creates new employment opportunities in the private sector reduces voters' economic dependence on the incumbent's clientelistic machines, which allows them to vote programmatically instead of supporting the incumbent. To test this argument, I examine the political consequences of the North American Free Trade Agreement (NAFTA) in Mexico under the PRI, an incumbent party that relied heavily on clientelism. I exploit geographic variation in NAFTA exposure using a shift-share design based on pre-NAFTA industrial specialization in manufacturing regions and crop suitability in agrarian communities. Pro-regime parties lost significantly more support in regions that were more exposed to the post-NAFTA increase in Mexican exports; these regions also saw lower enrollment in politically controlled social welfare programs. Moreover, the decline in pro-regime support is concentrated in small, highly clientelistic parties with a working-class voter base, a constituency that was both highly dependent on clientelism and disproportionately exposed to NAFTA-driven economic gains. These findings show that free trade can play a major role in weakening clientelism in developing countries.
@@ -103,7 +76,7 @@ Recent research suggests that politically excluded elites play a crucial role in
 <div class="coauthors">with Julien Labonne, Pablo Querubín, Martín Rossi, Sebastián Saiegh, and Shanker Satyanath</div>
 <div>NBER Working Paper No. 35611, August 2026.</div>
 
-<a class="paper-button" href="https://www.nber.org/papers/w35611" target="_blank" rel="noopener">Paper (NBER)</a>
+<button class="abstract-button" onclick="window.open('https://www.nber.org/papers/w35611', '_blank')">Paper</button>
 <button class="abstract-button" id="paper3-abstract-button" onclick="toggleAbstract('paper3-abstract')">Show Abstract</button>
 <div id="paper3-abstract" class="abstract-content">
 Elites maintain disproportionate political power even in formally inclusive political systems, yet the institutions through which they coordinate and reproduce this advantage remain poorly understood. We study membership in the Buenos Aires Jockey Club—Argentina's most prominent elite social club—exploiting staggered variation in family entry. Using difference-in-differences techniques, we find that Jockey Club membership increased the probability of holding legislative office by approximately four percentage points—more than twice the control-group mean. Consistent with a network-based mechanism, membership also increased families' centrality in elite marriage networks—a resource that can facilitate political success through access to party nominations and voter mobilization. This electoral advantage declines substantially after the 1912 Sáenz Peña democratizing reforms, suggesting that the political returns to club membership are conditional on institutional contexts that make elite network connections valuable. Our findings shed light on how elite social institutions reproduce political inequality where personal connections are essential for accessing political office.
