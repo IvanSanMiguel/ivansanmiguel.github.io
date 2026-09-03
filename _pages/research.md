@@ -98,3 +98,8 @@ Elites maintain disproportionate political power even in formally inclusive poli
 
 <div class="paper-title">The Elite Origins of Argentina's Protectionist Turn</div>
 <div class="coauthors"></div>
+
+---
+
+<div class="paper-title">Commodity Booms and the Politics of Abolition: Evidence from Republican Peru</div>
+<div class="coauthors">with Daniel Baquero and Kimberly Renk</div>
