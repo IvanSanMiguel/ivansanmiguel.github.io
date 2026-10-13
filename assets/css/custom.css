@@ -1,9 +1,7 @@
-/* Make the sidebar author photo larger */
-
-/* Optional: slightly smaller on phones */
+/* Mobile author photo */
 @media (max-width: 600px) {
   .author__avatar img {
-    width: 100px !important;
-    height: 100px !important;
+    width: 175px !important;
+    height: auto !important;
   }
 }
