@@ -58,6 +58,15 @@
   img {
     width: 100%;
   }
+
+  .author__avatar img {
+    width: 175px;
+
+    @include breakpoint($large) {
+      width: auto;
+      max-width: 220px;
+    }
+  }
 }
 
 .sidebar__right {
